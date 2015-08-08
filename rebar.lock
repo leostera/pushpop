@@ -1,4 +1,0 @@
-[{<<"switchboard">>,
-  {git,"https://github.com/thusfresh/switchboard.git",
-       {ref,"0adc279625369b822cc373509a8a9a5007b3702d"}},
-  0}].

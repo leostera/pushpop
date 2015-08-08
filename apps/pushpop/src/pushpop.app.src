@@ -1,12 +1,11 @@
 {application, 'pushpop',
- [{description, "A push server!"},
+ [{description, "An OTP application"},
   {vsn, "0.1.0"},
   {registered, []},
   {mod, {'pushpop_app', []}},
   {applications,
    [kernel,
-    stdlib,
-    switchboard
+    stdlib
    ]},
   {env,[]},
   {modules, []}
